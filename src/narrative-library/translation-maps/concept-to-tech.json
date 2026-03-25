@@ -1,0 +1,23 @@
+{
+  "Yggdrasil": {
+    "narrativeDescription": "Norse world tree connecting all realms",
+    "techImplementation": "Distributed state management + global network fabric",
+    "currentComponent": "Context API + tRPC client",
+    "feasibilityScore": 1.0,
+    "relatedCode": "src/packages/narrative/yggdrasil-state.ts"
+  },
+  "Athena": {
+    "narrativeDescription": "Greek goddess of wisdom/strategy",
+    "techImplementation": "AI ethics engine + automated decision support",
+    "currentComponent": "src/packages/ai/ethics-evaluator.ts",
+    "feasibilityScore": 0.8,
+    "relatedCode": "src/packages/narrative/athena-ethics.ts"
+  },
+  "Spice Melange": {
+    "narrativeDescription": "Dune's consciousness-enhancing substance",
+    "techImplementation": "High-efficiency ML training data pipeline",
+    "currentComponent": "src/packages/ai/data-optimizer.ts",
+    "feasibilityScore": 0.9,
+    "relatedCode": "src/packages/narrative/spice-data.ts"
+  }
+}
